@@ -1,0 +1,12 @@
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.deps.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.csproj.CopyComplete
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Business\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.pdb

@@ -1,0 +1,17 @@
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.deps.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.runtimeconfig.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.runtimeconfig.dev.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Catalogo.Domain.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Catalogo.Domain.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\obj\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\obj\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\obj\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\obj\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\obj\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.csproj.CopyComplete
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\obj\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\obj\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Data\obj\Debug\netcoreapp3.1\Ecommerce.Catalogo.Data.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.deps.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\bin\Debug\netcoreapp2.2\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\bin\Debug\netcoreapp2.2\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.CopyComplete
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.pdb

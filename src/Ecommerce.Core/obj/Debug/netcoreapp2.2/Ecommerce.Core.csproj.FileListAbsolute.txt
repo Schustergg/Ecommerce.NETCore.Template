@@ -1,0 +1,9 @@
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\bin\Debug\netcoreapp2.2\Ecommerce.Core.deps.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\bin\Debug\netcoreapp2.2\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\bin\Debug\netcoreapp2.2\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\obj\Debug\netcoreapp2.2\Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\obj\Debug\netcoreapp2.2\Ecommerce.Core.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\obj\Debug\netcoreapp2.2\Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\obj\Debug\netcoreapp2.2\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\obj\Debug\netcoreapp2.2\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Core\obj\Debug\netcoreapp2.2\Ecommerce.Core.csprojAssemblyReference.cache

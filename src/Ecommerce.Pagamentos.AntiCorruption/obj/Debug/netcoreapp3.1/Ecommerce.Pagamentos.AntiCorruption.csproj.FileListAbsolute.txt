@@ -1,0 +1,14 @@
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.deps.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.csproj.CopyComplete
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.AntiCorruption.pdb

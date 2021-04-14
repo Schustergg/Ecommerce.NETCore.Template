@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GtHwj9RRcdar66BJbgw+DTGBy+FgiirYzHMzengK76qkhhoYANeHnq5W8PRG8WOyoBvI6OTBjltQJq8IlB/9ww==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\.NET\\EcommerceTemplate\\src\\Ecommerce.Core\\Ecommerce.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avell\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
+    "C:\\Users\\Avell\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\Avell\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.deps.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.runtimeconfig.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.runtimeconfig.dev.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\bin\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Business.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.csproj.CopyComplete
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Pagamentos.Data\obj\Debug\netcoreapp3.1\Ecommerce.Pagamentos.Data.genruntimeconfig.cache

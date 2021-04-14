@@ -1,0 +1,12 @@
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.deps.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.csproj.CopyComplete
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Catalogo.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Catalogo.Domain.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNxuSIqym6kAcOndWVt38ZnqyJhJ6NdfrfjxidWEC2nmvunhkWbW4fikOfq2gVgBTVCSNkQvcwSI3BqaaJlYTA==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\.NET\\EcommerceTemplate\\src\\Ecommerce.Pagamentos.AntiCorruption\\Ecommerce.Pagamentos.AntiCorruption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avell\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
+    "C:\\Users\\Avell\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\Avell\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

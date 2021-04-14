@@ -1,0 +1,17 @@
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.deps.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.runtimeconfig.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.runtimeconfig.dev.json
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Vendas.Domain.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\bin\Debug\netcoreapp3.1\Ecommerce.Vendas.Domain.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\obj\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\obj\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\obj\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\obj\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\obj\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.csproj.CopyComplete
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\obj\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.dll
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\obj\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.pdb
+C:\Desenvolvimento\.NET\EcommerceTemplate\src\Ecommerce.Vendas.Data\obj\Debug\netcoreapp3.1\Ecommerce.Vendas.Data.genruntimeconfig.cache
